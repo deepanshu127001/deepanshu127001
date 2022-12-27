@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello I'm Deepanshu 👋
 🔭 I’m currently working as a Software Engineer<br>🌱 I’m currently learning DSA <br>💬 Ask me about C++ / Javascript ❤️<br>⚡ Interested in React JS 🔥
 
 
