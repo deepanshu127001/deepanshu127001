@@ -1,5 +1,5 @@
 # 💫 Hello I'm Deepanshu 👋
-# 💫 About Me:
+
 🔭 I’m currently working on scalable backend systems with Modern C++, Go, and distributed microservices<br>👯 I’m looking to collaborate on real-time apps, developer tools, and performance-focused systems<br>🤝 I’m looking for help with cloud-native architecture, system design, and open-source contributions<br>🌱 I’m currently learning advanced C++20 internals, distributed systems, and high-performance backend engineering<br>💬 Ask me about C++, Go, React, WebRTC, scalable APIs, and low-level system optimization<br>⚡ Fun fact: I can switch from debugging memory leaks to practicing Polyphia-style guitar riffs in the same night
 
 
